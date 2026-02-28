@@ -43,9 +43,9 @@
 
 ## Creation Guide
 
-* [프롬프트 가이드라인 \[기초\]](creation-guide/prompt-basics.md)
-* [프롬프트 포맷팅과 변수 \[심화\]](creation-guide/prompt-advanced.md)
-* [로어북 가이드라인 \[심화\]](creation-guide/lorebook-guide.md)
+* [프롬프트 가이드라인 [기초]](creation-guide/prompt-basics.md)
+* [프롬프트 포맷팅과 변수 [심화]](creation-guide/prompt-advanced.md)
+* [로어북 가이드라인 [심화]](creation-guide/lorebook-guide.md)
 
 ## FAQ
 
