@@ -17,20 +17,20 @@
 
 ## Chatting
 
-* [캐릭터와 대화하기](chatting/chat-with-character.md)
+* [대화하기](chatting/chat-with-character.md)
 * [채팅방 설정하기](chatting/chat-room-settings.md)
-* [메모리북](chatting/memory-book.md)
+* [장기기억 & 기억 조각](chatting/memory-book.md)
 * [MYMI에서 사용할 수 있는 AI 모델 안내](chatting/ai-models.md)
 
 ## Character Creation
 
-* [나만의 AI 캐릭터 제작하기](character-creation/create-character.md)
+* [나만의 AI 작품 제작하기](character-creation/create-character.md)
 * [로어북](character-creation/lorebook.md)
 * [이미지 출력 방식 안내](character-creation/image-output.md)
 
 ## Creator Support
 
-* [응원하기](creator-support/support.md)
+* [크리에이터 응원하기](creator-support/support.md)
 
 ## Payment
 
