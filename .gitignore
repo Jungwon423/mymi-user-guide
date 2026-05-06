@@ -1,0 +1,15 @@
+# Docusaurus build artifacts
+guide-site/node_modules/
+guide-site/build/
+guide-site/.docusaurus/
+guide-site/.cache-loader/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

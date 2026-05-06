@@ -1,0 +1,53 @@
+/**
+ * MYMI 유저가이드 — Pretendard 한글 우선 + 보라 강조 (MYMI 브랜드 컬러)
+ */
+
+:root {
+  /* MYMI 보라 계열 (mymi.live 메인 컬러 톤) */
+  --ifm-color-primary: #7c3aed;
+  --ifm-color-primary-dark: #6d28d9;
+  --ifm-color-primary-darker: #5b21b6;
+  --ifm-color-primary-darkest: #4c1d95;
+  --ifm-color-primary-light: #8b5cf6;
+  --ifm-color-primary-lighter: #a78bfa;
+  --ifm-color-primary-lightest: #c4b5fd;
+
+  --ifm-font-family-base:
+    'Pretendard Variable', 'Pretendard',
+    -apple-system, BlinkMacSystemFont,
+    system-ui, 'Segoe UI', Roboto,
+    'Apple SD Gothic Neo', 'Noto Sans KR',
+    'Helvetica Neue', Arial, sans-serif;
+
+  --ifm-font-family-monospace:
+    ui-monospace, SFMono-Regular, 'SF Mono',
+    Menlo, Consolas, 'Liberation Mono', monospace;
+
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* 한글 가독성 살짝 보정 */
+  --ifm-line-height-base: 1.7;
+  --ifm-paragraph-margin-bottom: 1em;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #a78bfa;
+  --ifm-color-primary-dark: #8b5cf6;
+  --ifm-color-primary-darker: #7c3aed;
+  --ifm-color-primary-darkest: #6d28d9;
+  --ifm-color-primary-light: #c4b5fd;
+  --ifm-color-primary-lighter: #ddd6fe;
+  --ifm-color-primary-lightest: #ede9fe;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* 한글 본문에서 영문 라틴 문자 자간 살짝 좁게 */
+body {
+  letter-spacing: -0.01em;
+}
+
+/* 헤딩 좀 더 또렷하게 */
+h1, h2, h3, h4 {
+  letter-spacing: -0.02em;
+}
