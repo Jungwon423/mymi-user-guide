@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'MYMI 유저가이드',
   tagline: 'AI 작품 속 인물과 자유롭게 대화하고, 나만의 작품을 만들어보세요',
-  favicon: 'img/favicon.ico',
+  favicon: 'brand/favicon.png',
 
   future: {
     v4: true,
@@ -97,7 +97,8 @@ const config = {
         title: 'MYMI 유저가이드',
         logo: {
           alt: 'MYMI',
-          src: 'img/logo.svg',
+          src: 'brand/mymi-lockup.svg',
+          srcDark: 'brand/mymi-lockup-white.svg',
         },
         items: [
           {
