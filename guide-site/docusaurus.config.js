@@ -9,6 +9,7 @@ const config = {
 
   future: {
     v4: true,
+    experimental_vcs: false,
   },
 
   url: 'https://mymi.live',
